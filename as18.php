@@ -3,7 +3,7 @@ echo "<a target='_blank' href='https://github.com/hedgehog100/api.git'>Github Re
 //Covid19api.com deaths data
 
 main();
-
+//b
 function main () {
 	
 	$apiCall = 'https://api.covid19api.com/summary';
